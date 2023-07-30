@@ -1,0 +1,9 @@
+@charset "utf-8";
+.badge{background:#ffffff;}
+.qpaying{font-size:16px;}
+.btn-money{border-radius:0px !important;}
+.btn-key{font-size:18px;}
+.btn-money, .btn-other, .btn-key{font-weight:bold;outline: none !important;}
+#totalTable span{font-size:19px;}
+#b-middle{font-size: 16px; background: #ffffff;border-top: 1px solid #cccccc;}
+#table-money, #table-money th, #table-money td, #table-money-info, #table-money-info th, #product-list, #table-cal , #table-cal td{border-bottom: 0 !important;}
